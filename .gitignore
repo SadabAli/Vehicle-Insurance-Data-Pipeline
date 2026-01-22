@@ -4,3 +4,4 @@ data.csv
 rf_model.pkl
 mongoDB_demo.ipynb
 artifact
+AWS_access_key.txt
