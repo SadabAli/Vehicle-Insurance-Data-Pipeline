@@ -4,7 +4,7 @@ FROM python:3.10-slim-buster
 # Set the working directory
 WORKDIR /app
 
-# Copy your application code
+# Copy your application code 
 COPY . /app
 
 # Install the dependencies
